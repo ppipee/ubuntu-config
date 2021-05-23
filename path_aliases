@@ -1,0 +1,4 @@
+alias wongnai='~/Desktop/wongnai'
+alias deliveryWeb='wongnai && cd ./delivery-web'
+
+alias di-planistra='~/Desktop/di-planistra'
